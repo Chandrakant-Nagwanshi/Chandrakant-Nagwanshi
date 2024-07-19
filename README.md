@@ -8,7 +8,7 @@ Front End Developer
 
 Sure, here's a short description for your GitHub profile: --- 👋 Hi, I'm Chandrakant, a frontend developer with a passion for creating engaging and responsive web applications. 🚀 My skills include: - React and Redux for building robust and scalable frontend applications. - Supabase for database management and integration. - Tailwind CSS and Styled Components for crafting beautiful and customizable UI components. - Material-UI for designing consistent and user-friendly interfaces. - Proficiency in JavaScript, HTML, and CSS to bring designs to life and ensure smooth user experiences. 💼 Currently, I'm working on exciting projects that leverage these technologies to deliver exceptional user interfaces. 🌱 I'm always eager to learn and explore new tools and techniques to enhance my frontend development skills. Let's collaborate and build amazing web experiences together!
 
-* 🌍  I'm based in Betul, IN Madhya Pradesh
+* 🌍  I'm based in Betul, In Madhya Pradesh
 * ✉️  You can contact me at [chandrakantnagwanshi97@gmail.com](mailto:chandrakantnagwanshi97@gmail.com)
 * 🚀  I'm currently working on [hotel management app](http://wild-oasis-324r7l7kj-chandrakant-nagwanshis-projects.vercel.app)
 * 🧠  I'm learning Node.js
